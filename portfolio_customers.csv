@@ -1,0 +1,501 @@
+customer_id,customer_name,city,signup_date
+C-1000,Customer 1000,Los Angeles,2022-01-26
+C-1001,Customer 1001,Phoenix,2022-09-08
+C-1002,Customer 1002,Houston,2022-05-23
+C-1003,Customer 1003,Los Angeles,2023-11-24
+C-1004,Customer 1004,Dallas,2022-03-31
+C-1005,Customer 1005,San Jose,2023-03-09
+C-1006,Customer 1006,New York,2022-01-31
+C-1007,Customer 1007,Los Angeles,2022-08-12
+C-1008,Customer 1008,Houston,2023-06-02
+C-1009,Customer 1009,San Jose,2022-01-28
+C-1010,Customer 1010,Dallas,2022-07-23
+C-1011,Customer 1011,Dallas,2023-03-06
+C-1012,Customer 1012,Houston,2023-04-05
+C-1013,Customer 1013,San Jose,2022-10-12
+C-1014,Customer 1014,New York,2022-06-13
+C-1015,Customer 1015,San Antonio,2022-12-15
+C-1016,Customer 1016,Phoenix,2022-06-09
+C-1017,Customer 1017,Houston,2022-12-11
+C-1018,Customer 1018,Los Angeles,2022-04-05
+C-1019,Customer 1019,San Antonio,2022-04-10
+C-1020,Customer 1020,Philadelphia,2022-12-19
+C-1021,Customer 1021,San Jose,2022-09-28
+C-1022,Customer 1022,New York,2023-04-16
+C-1023,Customer 1023,Dallas,2022-05-08
+C-1024,Customer 1024,San Antonio,2022-03-22
+C-1025,Customer 1025,Dallas,2022-10-28
+C-1026,Customer 1026,San Jose,2023-01-06
+C-1027,Customer 1027,San Jose,2022-07-16
+C-1028,Customer 1028,Los Angeles,2022-02-16
+C-1029,Customer 1029,Houston,2022-10-24
+C-1030,Customer 1030,Los Angeles,2022-08-27
+C-1031,Customer 1031,Los Angeles,2023-01-25
+C-1032,Customer 1032,Phoenix,2023-04-10
+C-1033,Customer 1033,Philadelphia,2022-06-16
+C-1034,Customer 1034,Philadelphia,2022-12-30
+C-1035,Customer 1035,Houston,2023-11-18
+C-1036,Customer 1036,Phoenix,2023-12-20
+C-1037,Customer 1037,Los Angeles,2023-09-16
+C-1038,Customer 1038,Chicago,2023-07-01
+C-1039,Customer 1039,Houston,2022-06-17
+C-1040,Customer 1040,San Diego,2023-01-24
+C-1041,Customer 1041,Phoenix,2023-10-18
+C-1042,Customer 1042,Dallas,2022-08-13
+C-1043,Customer 1043,Philadelphia,2022-02-27
+C-1044,Customer 1044,Houston,2022-02-02
+C-1045,Customer 1045,Philadelphia,2023-02-15
+C-1046,Customer 1046,Phoenix,2022-03-09
+C-1047,Customer 1047,Houston,2023-08-04
+C-1048,Customer 1048,Philadelphia,2022-08-06
+C-1049,Customer 1049,San Diego,2023-02-10
+C-1050,Customer 1050,San Diego,2022-05-27
+C-1051,Customer 1051,Phoenix,2022-05-23
+C-1052,Customer 1052,Houston,2023-07-29
+C-1053,Customer 1053,Dallas,2022-09-27
+C-1054,Customer 1054,San Jose,2023-03-15
+C-1055,Customer 1055,San Jose,2023-02-13
+C-1056,Customer 1056,Philadelphia,2022-08-13
+C-1057,Customer 1057,Chicago,2023-06-06
+C-1058,Customer 1058,San Diego,2022-04-04
+C-1059,Customer 1059,New York,2022-04-23
+C-1060,Customer 1060,Chicago,2023-10-05
+C-1061,Customer 1061,Chicago,2023-11-28
+C-1062,Customer 1062,San Antonio,2023-09-03
+C-1063,Customer 1063,Los Angeles,2023-01-30
+C-1064,Customer 1064,San Antonio,2023-09-03
+C-1065,Customer 1065,San Diego,2023-06-26
+C-1066,Customer 1066,Phoenix,2023-07-21
+C-1067,Customer 1067,New York,2023-11-28
+C-1068,Customer 1068,Los Angeles,2023-11-30
+C-1069,Customer 1069,Dallas,2022-10-01
+C-1070,Customer 1070,Philadelphia,2022-04-25
+C-1071,Customer 1071,Phoenix,2023-03-22
+C-1072,Customer 1072,Chicago,2023-04-10
+C-1073,Customer 1073,New York,2022-09-27
+C-1074,Customer 1074,Dallas,2022-07-02
+C-1075,Customer 1075,Dallas,2022-04-19
+C-1076,Customer 1076,Phoenix,2023-10-17
+C-1077,Customer 1077,Dallas,2023-09-16
+C-1078,Customer 1078,Houston,2022-06-06
+C-1079,Customer 1079,Philadelphia,2022-06-15
+C-1080,Customer 1080,Dallas,2023-06-28
+C-1081,Customer 1081,New York,2023-09-06
+C-1082,Customer 1082,Philadelphia,2023-05-16
+C-1083,Customer 1083,New York,2022-04-25
+C-1084,Customer 1084,Philadelphia,2022-11-11
+C-1085,Customer 1085,Houston,2022-03-01
+C-1086,Customer 1086,Houston,2023-08-04
+C-1087,Customer 1087,Los Angeles,2022-03-29
+C-1088,Customer 1088,San Diego,2022-03-12
+C-1089,Customer 1089,Dallas,2022-05-09
+C-1090,Customer 1090,Chicago,2023-11-07
+C-1091,Customer 1091,San Diego,2023-07-17
+C-1092,Customer 1092,Chicago,2022-09-29
+C-1093,Customer 1093,Dallas,2023-09-14
+C-1094,Customer 1094,San Antonio,2022-08-05
+C-1095,Customer 1095,Dallas,2023-12-08
+C-1096,Customer 1096,Houston,2024-01-01
+C-1097,Customer 1097,Phoenix,2023-02-13
+C-1098,Customer 1098,Philadelphia,2023-03-25
+C-1099,Customer 1099,Dallas,2023-04-08
+C-1100,Customer 1100,Los Angeles,2022-09-11
+C-1101,Customer 1101,Houston,2022-03-07
+C-1102,Customer 1102,Philadelphia,2022-01-22
+C-1103,Customer 1103,San Jose,2023-07-22
+C-1104,Customer 1104,Houston,2023-08-26
+C-1105,Customer 1105,Houston,2022-01-08
+C-1106,Customer 1106,Los Angeles,2023-12-26
+C-1107,Customer 1107,New York,2022-08-23
+C-1108,Customer 1108,Los Angeles,2022-02-02
+C-1109,Customer 1109,Philadelphia,2022-03-14
+C-1110,Customer 1110,Dallas,2022-09-01
+C-1111,Customer 1111,Phoenix,2023-11-17
+C-1112,Customer 1112,San Diego,2022-08-08
+C-1113,Customer 1113,Dallas,2022-05-16
+C-1114,Customer 1114,San Jose,2023-08-14
+C-1115,Customer 1115,San Diego,2022-09-06
+C-1116,Customer 1116,San Diego,2023-02-21
+C-1117,Customer 1117,Houston,2022-04-07
+C-1118,Customer 1118,Los Angeles,2023-11-06
+C-1119,Customer 1119,San Antonio,2022-12-29
+C-1120,Customer 1120,San Antonio,2023-02-25
+C-1121,Customer 1121,San Diego,2022-02-25
+C-1122,Customer 1122,Los Angeles,2022-03-04
+C-1123,Customer 1123,San Antonio,2022-12-14
+C-1124,Customer 1124,Los Angeles,2022-09-12
+C-1125,Customer 1125,Houston,2022-07-14
+C-1126,Customer 1126,Dallas,2023-04-05
+C-1127,Customer 1127,Chicago,2023-03-09
+C-1128,Customer 1128,Chicago,2022-10-13
+C-1129,Customer 1129,San Diego,2022-09-13
+C-1130,Customer 1130,Los Angeles,2023-03-30
+C-1131,Customer 1131,Dallas,2022-04-11
+C-1132,Customer 1132,New York,2023-10-30
+C-1133,Customer 1133,Dallas,2022-01-16
+C-1134,Customer 1134,Los Angeles,2022-08-31
+C-1135,Customer 1135,Chicago,2023-02-21
+C-1136,Customer 1136,San Diego,2023-05-08
+C-1137,Customer 1137,Houston,2023-02-15
+C-1138,Customer 1138,New York,2022-06-18
+C-1139,Customer 1139,San Antonio,2022-01-03
+C-1140,Customer 1140,San Antonio,2022-09-29
+C-1141,Customer 1141,San Diego,2022-10-20
+C-1142,Customer 1142,San Antonio,2023-12-15
+C-1143,Customer 1143,Dallas,2023-11-09
+C-1144,Customer 1144,San Diego,2022-06-08
+C-1145,Customer 1145,Houston,2022-10-31
+C-1146,Customer 1146,Houston,2022-03-01
+C-1147,Customer 1147,San Jose,2023-07-10
+C-1148,Customer 1148,New York,2022-11-18
+C-1149,Customer 1149,New York,2022-02-21
+C-1150,Customer 1150,San Jose,2023-05-04
+C-1151,Customer 1151,Dallas,2023-06-28
+C-1152,Customer 1152,Chicago,2022-02-28
+C-1153,Customer 1153,Dallas,2022-03-24
+C-1154,Customer 1154,Chicago,2022-03-12
+C-1155,Customer 1155,San Jose,2022-03-11
+C-1156,Customer 1156,Houston,2023-02-18
+C-1157,Customer 1157,Los Angeles,2023-08-07
+C-1158,Customer 1158,Houston,2023-08-16
+C-1159,Customer 1159,San Jose,2022-02-10
+C-1160,Customer 1160,San Jose,2022-03-25
+C-1161,Customer 1161,San Antonio,2023-11-05
+C-1162,Customer 1162,San Jose,2023-08-02
+C-1163,Customer 1163,Dallas,2022-11-20
+C-1164,Customer 1164,Phoenix,2022-07-29
+C-1165,Customer 1165,Philadelphia,2022-09-02
+C-1166,Customer 1166,Phoenix,2023-02-10
+C-1167,Customer 1167,Chicago,2023-11-19
+C-1168,Customer 1168,Phoenix,2023-04-14
+C-1169,Customer 1169,Philadelphia,2022-03-16
+C-1170,Customer 1170,New York,2023-04-15
+C-1171,Customer 1171,San Jose,2023-07-31
+C-1172,Customer 1172,Los Angeles,2022-03-17
+C-1173,Customer 1173,Dallas,2022-08-07
+C-1174,Customer 1174,Dallas,2022-09-29
+C-1175,Customer 1175,Chicago,2022-12-24
+C-1176,Customer 1176,Los Angeles,2022-09-08
+C-1177,Customer 1177,Philadelphia,2022-10-19
+C-1178,Customer 1178,Chicago,2023-03-25
+C-1179,Customer 1179,Dallas,2023-12-22
+C-1180,Customer 1180,Phoenix,2023-09-19
+C-1181,Customer 1181,Dallas,2022-01-09
+C-1182,Customer 1182,Dallas,2022-11-03
+C-1183,Customer 1183,Los Angeles,2022-05-18
+C-1184,Customer 1184,Phoenix,2022-04-29
+C-1185,Customer 1185,Los Angeles,2023-07-21
+C-1186,Customer 1186,Chicago,2022-10-06
+C-1187,Customer 1187,Phoenix,2023-09-12
+C-1188,Customer 1188,Houston,2022-12-18
+C-1189,Customer 1189,Houston,2023-12-05
+C-1190,Customer 1190,Phoenix,2023-06-02
+C-1191,Customer 1191,San Diego,2022-09-15
+C-1192,Customer 1192,New York,2022-04-05
+C-1193,Customer 1193,San Antonio,2022-10-11
+C-1194,Customer 1194,New York,2022-01-04
+C-1195,Customer 1195,Philadelphia,2022-05-14
+C-1196,Customer 1196,Phoenix,2022-06-15
+C-1197,Customer 1197,San Diego,2023-07-19
+C-1198,Customer 1198,San Antonio,2023-07-29
+C-1199,Customer 1199,New York,2022-04-25
+C-1200,Customer 1200,Los Angeles,2023-12-09
+C-1201,Customer 1201,Chicago,2023-07-13
+C-1202,Customer 1202,New York,2023-01-14
+C-1203,Customer 1203,San Jose,2023-07-20
+C-1204,Customer 1204,Chicago,2023-03-17
+C-1205,Customer 1205,Chicago,2022-02-12
+C-1206,Customer 1206,Phoenix,2023-01-09
+C-1207,Customer 1207,New York,2023-01-02
+C-1208,Customer 1208,Houston,2023-11-30
+C-1209,Customer 1209,Houston,2023-11-14
+C-1210,Customer 1210,Los Angeles,2022-12-29
+C-1211,Customer 1211,Dallas,2023-02-21
+C-1212,Customer 1212,San Jose,2022-06-08
+C-1213,Customer 1213,Houston,2022-06-16
+C-1214,Customer 1214,Chicago,2023-02-27
+C-1215,Customer 1215,New York,2022-07-03
+C-1216,Customer 1216,Philadelphia,2023-02-26
+C-1217,Customer 1217,Houston,2022-10-01
+C-1218,Customer 1218,Chicago,2023-12-20
+C-1219,Customer 1219,Los Angeles,2023-01-27
+C-1220,Customer 1220,New York,2023-04-27
+C-1221,Customer 1221,Houston,2022-07-24
+C-1222,Customer 1222,San Diego,2022-12-25
+C-1223,Customer 1223,Phoenix,2022-08-22
+C-1224,Customer 1224,Houston,2022-01-25
+C-1225,Customer 1225,Houston,2023-02-13
+C-1226,Customer 1226,Philadelphia,2022-10-13
+C-1227,Customer 1227,Los Angeles,2022-10-13
+C-1228,Customer 1228,Philadelphia,2023-10-19
+C-1229,Customer 1229,Dallas,2023-02-14
+C-1230,Customer 1230,Dallas,2022-12-06
+C-1231,Customer 1231,New York,2022-04-29
+C-1232,Customer 1232,Phoenix,2022-07-02
+C-1233,Customer 1233,San Jose,2022-09-29
+C-1234,Customer 1234,New York,2022-04-22
+C-1235,Customer 1235,San Jose,2023-03-21
+C-1236,Customer 1236,Philadelphia,2022-11-18
+C-1237,Customer 1237,San Antonio,2023-09-13
+C-1238,Customer 1238,Dallas,2022-04-29
+C-1239,Customer 1239,San Antonio,2023-08-14
+C-1240,Customer 1240,Houston,2022-09-18
+C-1241,Customer 1241,New York,2023-12-27
+C-1242,Customer 1242,San Antonio,2022-01-02
+C-1243,Customer 1243,Dallas,2023-07-06
+C-1244,Customer 1244,Houston,2023-01-08
+C-1245,Customer 1245,San Antonio,2022-03-13
+C-1246,Customer 1246,Philadelphia,2023-10-01
+C-1247,Customer 1247,Philadelphia,2023-11-11
+C-1248,Customer 1248,Los Angeles,2022-11-04
+C-1249,Customer 1249,Dallas,2022-11-13
+C-1250,Customer 1250,San Antonio,2022-12-01
+C-1251,Customer 1251,San Antonio,2023-12-15
+C-1252,Customer 1252,Phoenix,2023-07-22
+C-1253,Customer 1253,Chicago,2022-07-16
+C-1254,Customer 1254,San Antonio,2023-11-12
+C-1255,Customer 1255,San Antonio,2023-11-25
+C-1256,Customer 1256,Chicago,2023-09-23
+C-1257,Customer 1257,San Jose,2022-11-05
+C-1258,Customer 1258,San Antonio,2023-07-16
+C-1259,Customer 1259,New York,2022-11-08
+C-1260,Customer 1260,Phoenix,2022-08-04
+C-1261,Customer 1261,San Antonio,2023-08-17
+C-1262,Customer 1262,San Jose,2023-11-02
+C-1263,Customer 1263,Philadelphia,2023-04-22
+C-1264,Customer 1264,San Diego,2023-03-29
+C-1265,Customer 1265,Houston,2023-06-08
+C-1266,Customer 1266,San Diego,2022-06-23
+C-1267,Customer 1267,Los Angeles,2022-10-18
+C-1268,Customer 1268,Dallas,2023-11-11
+C-1269,Customer 1269,San Jose,2022-12-10
+C-1270,Customer 1270,Los Angeles,2022-08-29
+C-1271,Customer 1271,Phoenix,2022-08-19
+C-1272,Customer 1272,Houston,2022-05-31
+C-1273,Customer 1273,New York,2022-02-17
+C-1274,Customer 1274,Houston,2023-05-02
+C-1275,Customer 1275,San Jose,2022-03-16
+C-1276,Customer 1276,San Diego,2023-03-01
+C-1277,Customer 1277,San Jose,2022-07-19
+C-1278,Customer 1278,San Antonio,2023-05-22
+C-1279,Customer 1279,San Antonio,2022-09-07
+C-1280,Customer 1280,Chicago,2023-11-03
+C-1281,Customer 1281,New York,2022-04-20
+C-1282,Customer 1282,San Antonio,2022-08-13
+C-1283,Customer 1283,Chicago,2023-12-14
+C-1284,Customer 1284,Dallas,2023-04-21
+C-1285,Customer 1285,New York,2023-07-25
+C-1286,Customer 1286,Houston,2022-05-05
+C-1287,Customer 1287,San Diego,2022-05-17
+C-1288,Customer 1288,San Diego,2023-11-15
+C-1289,Customer 1289,Dallas,2023-07-27
+C-1290,Customer 1290,San Jose,2022-11-21
+C-1291,Customer 1291,San Diego,2023-09-20
+C-1292,Customer 1292,Dallas,2023-03-13
+C-1293,Customer 1293,Dallas,2023-04-02
+C-1294,Customer 1294,Chicago,2023-05-02
+C-1295,Customer 1295,San Diego,2022-09-23
+C-1296,Customer 1296,Houston,2023-10-15
+C-1297,Customer 1297,Phoenix,2023-06-18
+C-1298,Customer 1298,San Diego,2023-10-04
+C-1299,Customer 1299,Houston,2022-10-09
+C-1300,Customer 1300,San Diego,2022-03-21
+C-1301,Customer 1301,Phoenix,2022-08-29
+C-1302,Customer 1302,Phoenix,2022-12-10
+C-1303,Customer 1303,Philadelphia,2023-07-08
+C-1304,Customer 1304,Los Angeles,2022-05-22
+C-1305,Customer 1305,Chicago,2022-08-25
+C-1306,Customer 1306,San Antonio,2023-12-12
+C-1307,Customer 1307,Chicago,2023-12-25
+C-1308,Customer 1308,Houston,2022-03-07
+C-1309,Customer 1309,San Antonio,2023-02-22
+C-1310,Customer 1310,Philadelphia,2023-07-10
+C-1311,Customer 1311,San Diego,2023-03-02
+C-1312,Customer 1312,New York,2022-07-31
+C-1313,Customer 1313,San Antonio,2023-02-03
+C-1314,Customer 1314,San Jose,2023-12-14
+C-1315,Customer 1315,New York,2023-08-13
+C-1316,Customer 1316,San Antonio,2023-05-04
+C-1317,Customer 1317,New York,2022-12-27
+C-1318,Customer 1318,Phoenix,2023-02-04
+C-1319,Customer 1319,San Antonio,2023-07-06
+C-1320,Customer 1320,Dallas,2023-09-10
+C-1321,Customer 1321,Houston,2023-05-15
+C-1322,Customer 1322,Houston,2022-10-07
+C-1323,Customer 1323,San Antonio,2023-05-13
+C-1324,Customer 1324,New York,2023-02-03
+C-1325,Customer 1325,Philadelphia,2023-11-16
+C-1326,Customer 1326,San Antonio,2022-06-19
+C-1327,Customer 1327,San Diego,2022-05-11
+C-1328,Customer 1328,San Jose,2023-07-01
+C-1329,Customer 1329,New York,2023-02-08
+C-1330,Customer 1330,San Jose,2023-08-01
+C-1331,Customer 1331,New York,2022-03-27
+C-1332,Customer 1332,San Antonio,2022-05-19
+C-1333,Customer 1333,San Diego,2022-07-06
+C-1334,Customer 1334,New York,2022-09-24
+C-1335,Customer 1335,San Antonio,2022-12-02
+C-1336,Customer 1336,Houston,2023-04-11
+C-1337,Customer 1337,Philadelphia,2022-12-12
+C-1338,Customer 1338,San Antonio,2022-10-12
+C-1339,Customer 1339,San Antonio,2022-09-16
+C-1340,Customer 1340,Los Angeles,2023-04-27
+C-1341,Customer 1341,New York,2023-07-07
+C-1342,Customer 1342,New York,2022-12-25
+C-1343,Customer 1343,Houston,2023-10-28
+C-1344,Customer 1344,Los Angeles,2023-10-30
+C-1345,Customer 1345,New York,2022-02-01
+C-1346,Customer 1346,Houston,2022-07-24
+C-1347,Customer 1347,New York,2023-09-29
+C-1348,Customer 1348,Chicago,2022-09-02
+C-1349,Customer 1349,Chicago,2023-04-30
+C-1350,Customer 1350,Los Angeles,2023-08-01
+C-1351,Customer 1351,Houston,2023-04-22
+C-1352,Customer 1352,Phoenix,2023-01-13
+C-1353,Customer 1353,Chicago,2023-09-13
+C-1354,Customer 1354,San Jose,2022-04-28
+C-1355,Customer 1355,Chicago,2022-11-15
+C-1356,Customer 1356,Los Angeles,2023-08-16
+C-1357,Customer 1357,New York,2022-11-16
+C-1358,Customer 1358,San Jose,2023-11-25
+C-1359,Customer 1359,San Antonio,2023-02-11
+C-1360,Customer 1360,Houston,2022-03-19
+C-1361,Customer 1361,San Jose,2023-12-09
+C-1362,Customer 1362,Houston,2022-04-15
+C-1363,Customer 1363,Phoenix,2023-12-02
+C-1364,Customer 1364,San Jose,2022-05-04
+C-1365,Customer 1365,San Jose,2022-02-12
+C-1366,Customer 1366,Philadelphia,2023-06-30
+C-1367,Customer 1367,San Antonio,2023-11-09
+C-1368,Customer 1368,Philadelphia,2022-03-12
+C-1369,Customer 1369,Dallas,2023-10-26
+C-1370,Customer 1370,Philadelphia,2022-01-13
+C-1371,Customer 1371,San Antonio,2023-05-17
+C-1372,Customer 1372,Los Angeles,2023-03-20
+C-1373,Customer 1373,Philadelphia,2023-10-13
+C-1374,Customer 1374,San Diego,2023-12-26
+C-1375,Customer 1375,Chicago,2023-03-22
+C-1376,Customer 1376,Chicago,2023-06-19
+C-1377,Customer 1377,Phoenix,2023-09-23
+C-1378,Customer 1378,Dallas,2023-05-11
+C-1379,Customer 1379,San Diego,2023-03-23
+C-1380,Customer 1380,San Jose,2022-10-02
+C-1381,Customer 1381,Philadelphia,2022-09-09
+C-1382,Customer 1382,Los Angeles,2022-10-13
+C-1383,Customer 1383,San Diego,2022-09-07
+C-1384,Customer 1384,San Diego,2023-08-07
+C-1385,Customer 1385,San Jose,2023-11-16
+C-1386,Customer 1386,San Antonio,2022-12-11
+C-1387,Customer 1387,New York,2023-05-22
+C-1388,Customer 1388,Philadelphia,2022-07-06
+C-1389,Customer 1389,San Diego,2022-08-06
+C-1390,Customer 1390,Philadelphia,2022-09-22
+C-1391,Customer 1391,Philadelphia,2022-10-14
+C-1392,Customer 1392,San Jose,2023-12-20
+C-1393,Customer 1393,Phoenix,2023-07-24
+C-1394,Customer 1394,New York,2023-06-14
+C-1395,Customer 1395,Houston,2022-03-29
+C-1396,Customer 1396,Houston,2023-02-21
+C-1397,Customer 1397,San Diego,2023-07-23
+C-1398,Customer 1398,Houston,2023-12-09
+C-1399,Customer 1399,San Diego,2023-10-24
+C-1400,Customer 1400,San Diego,2023-04-04
+C-1401,Customer 1401,New York,2022-04-06
+C-1402,Customer 1402,Phoenix,2022-08-15
+C-1403,Customer 1403,San Antonio,2023-12-10
+C-1404,Customer 1404,Houston,2022-11-10
+C-1405,Customer 1405,San Jose,2023-01-13
+C-1406,Customer 1406,San Diego,2023-07-21
+C-1407,Customer 1407,Dallas,2022-12-19
+C-1408,Customer 1408,San Antonio,2023-07-18
+C-1409,Customer 1409,Philadelphia,2022-12-27
+C-1410,Customer 1410,San Diego,2022-10-05
+C-1411,Customer 1411,Phoenix,2022-09-15
+C-1412,Customer 1412,Houston,2022-05-04
+C-1413,Customer 1413,Houston,2022-11-20
+C-1414,Customer 1414,Los Angeles,2023-07-03
+C-1415,Customer 1415,Chicago,2022-07-16
+C-1416,Customer 1416,Houston,2023-05-11
+C-1417,Customer 1417,Phoenix,2023-08-27
+C-1418,Customer 1418,Dallas,2023-09-04
+C-1419,Customer 1419,Phoenix,2022-04-13
+C-1420,Customer 1420,Houston,2022-10-31
+C-1421,Customer 1421,Houston,2023-01-05
+C-1422,Customer 1422,Chicago,2022-11-06
+C-1423,Customer 1423,New York,2023-12-27
+C-1424,Customer 1424,Dallas,2022-05-10
+C-1425,Customer 1425,Phoenix,2022-02-16
+C-1426,Customer 1426,New York,2023-07-21
+C-1427,Customer 1427,Phoenix,2023-12-16
+C-1428,Customer 1428,Chicago,2023-10-16
+C-1429,Customer 1429,San Diego,2022-04-16
+C-1430,Customer 1430,New York,2023-08-11
+C-1431,Customer 1431,Phoenix,2023-04-26
+C-1432,Customer 1432,San Diego,2023-03-28
+C-1433,Customer 1433,Philadelphia,2022-07-08
+C-1434,Customer 1434,New York,2022-09-16
+C-1435,Customer 1435,San Diego,2022-04-27
+C-1436,Customer 1436,Los Angeles,2023-02-15
+C-1437,Customer 1437,San Diego,2022-03-17
+C-1438,Customer 1438,San Jose,2023-10-07
+C-1439,Customer 1439,New York,2022-06-05
+C-1440,Customer 1440,Chicago,2023-07-31
+C-1441,Customer 1441,Phoenix,2022-03-29
+C-1442,Customer 1442,Houston,2022-05-02
+C-1443,Customer 1443,Dallas,2023-03-03
+C-1444,Customer 1444,San Jose,2023-09-03
+C-1445,Customer 1445,San Jose,2022-08-20
+C-1446,Customer 1446,Dallas,2023-01-25
+C-1447,Customer 1447,San Diego,2023-03-30
+C-1448,Customer 1448,Phoenix,2023-08-26
+C-1449,Customer 1449,San Antonio,2022-11-09
+C-1450,Customer 1450,San Jose,2023-09-28
+C-1451,Customer 1451,New York,2023-09-17
+C-1452,Customer 1452,Los Angeles,2022-08-01
+C-1453,Customer 1453,Houston,2022-09-28
+C-1454,Customer 1454,Los Angeles,2022-06-10
+C-1455,Customer 1455,Houston,2022-06-27
+C-1456,Customer 1456,Dallas,2022-03-18
+C-1457,Customer 1457,Chicago,2022-01-03
+C-1458,Customer 1458,San Antonio,2023-04-07
+C-1459,Customer 1459,San Jose,2023-04-27
+C-1460,Customer 1460,Phoenix,2022-02-03
+C-1461,Customer 1461,Houston,2022-10-23
+C-1462,Customer 1462,Phoenix,2023-12-21
+C-1463,Customer 1463,San Diego,2022-03-14
+C-1464,Customer 1464,Houston,2022-09-28
+C-1465,Customer 1465,San Jose,2023-11-09
+C-1466,Customer 1466,Houston,2023-03-12
+C-1467,Customer 1467,Los Angeles,2023-07-12
+C-1468,Customer 1468,Houston,2023-10-26
+C-1469,Customer 1469,Chicago,2022-09-30
+C-1470,Customer 1470,Chicago,2022-03-15
+C-1471,Customer 1471,New York,2022-06-19
+C-1472,Customer 1472,Phoenix,2023-09-02
+C-1473,Customer 1473,San Jose,2022-10-23
+C-1474,Customer 1474,San Diego,2022-05-08
+C-1475,Customer 1475,San Diego,2023-12-07
+C-1476,Customer 1476,Phoenix,2023-12-18
+C-1477,Customer 1477,San Antonio,2022-10-06
+C-1478,Customer 1478,Dallas,2023-07-07
+C-1479,Customer 1479,San Diego,2023-03-25
+C-1480,Customer 1480,Los Angeles,2023-09-05
+C-1481,Customer 1481,New York,2023-03-19
+C-1482,Customer 1482,Philadelphia,2023-09-11
+C-1483,Customer 1483,Phoenix,2022-01-27
+C-1484,Customer 1484,Los Angeles,2022-08-23
+C-1485,Customer 1485,San Jose,2023-08-25
+C-1486,Customer 1486,New York,2023-11-20
+C-1487,Customer 1487,Phoenix,2023-08-14
+C-1488,Customer 1488,New York,2022-06-29
+C-1489,Customer 1489,San Diego,2023-06-16
+C-1490,Customer 1490,San Diego,2022-10-12
+C-1491,Customer 1491,Chicago,2023-08-23
+C-1492,Customer 1492,San Antonio,2023-10-13
+C-1493,Customer 1493,San Diego,2022-04-04
+C-1494,Customer 1494,San Diego,2022-12-23
+C-1495,Customer 1495,San Antonio,2022-12-08
+C-1496,Customer 1496,Philadelphia,2023-11-18
+C-1497,Customer 1497,Los Angeles,2022-06-14
+C-1498,Customer 1498,Philadelphia,2023-02-26
+C-1499,Customer 1499,San Diego,2022-10-23
